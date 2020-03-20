@@ -16,8 +16,6 @@ Whoopi Goldberg called me a terrorist on [national network TV](https://www.youtu
 
 I love to work with honest, transparent people who are on compatible missions.
 
-## Personal Content
-
 My goal as a human being is to be entirely present in the moment and to always present my best self to whatever reality presents me with, and to limit my downside from that.
 
 * [me@georgedonnelly.com](mailto:me@georgedonnelly.com)
@@ -43,7 +41,7 @@ My goal as a human being is to be entirely present in the moment and to always p
 * [https://steemit.com/@georgedonnelly](https://steemit.com/@georgedonnelly)
 * [https://linktr.ee/georgedonnelly](https://linktr.ee/georgedonnelly)
 
-### Personal Support
+### Support
 
 * BCH: GeorgeDonnelly#57560
 * bitcoincash:qp4r28utx9y33xtq35t0ar6dh39r3m474q2hr3f5ze
@@ -56,8 +54,6 @@ I am working to fund Bitcoin Cash protocol development as Business Development M
 
 We have a business plan and I am very interested to speak with Bitcoin Cash and cryptocurrency miners and businesses about how we can grow together. Email me at [george@bitcoinabc.org](mailto:george@bitcoinabc.org) or schedule a presentation of the Bitcoin ABC 2020 plan [here](https://calendly.com/bitcoinabc/bizplan2020) (priority given to BCH miners and businesses at this time).
 
-### Content
-
 * [https://www.bitcoinabc.org/](https://www.bitcoinabc.org/)
 * [https://twitter.com/bitcoin_abc](https://twitter.com/bitcoin_abc)
 * [https://www.facebook.com/bitcoinabc.org/](https://www.facebook.com/bitcoinabc.org/)
@@ -68,8 +64,7 @@ We have a business plan and I am very interested to speak with Bitcoin Cash and 
 
 I aim to make Bitcoin Cash the international currency of Latin America, ameliorating poverty, enabling job & wealth creation, and sparking an economic growth “miracle” in the developing world.
 
-
-### Content
+Join the [BCH Ignite Discord](https://discord.gg/xvK5p7t) and start self-organizing. Here is the [concept](https://read.cash/@georgedonnelly/join-bch-ignite-building-bch-adoption-in-the-developing-world-c094a8f6).
 
 * [http://buidldaily.com/](http://buidldaily.com/) (English site)
 * [http://bchlatam.com/](http://bchlatam.com/) (Spanish site)
@@ -87,7 +82,6 @@ We're currently running a crowdfunding campaign and selling PAN SLP tokens at [h
 * BCH: BCHLatam#62500
 * BCH: bitcoincash:qqa5fels0wz5ugwa23eenqff5ahxxzfvsue4kr574s
 * BTC: 16QPQzXAqFcSxhxgqUa8vsfaxJKCQ4aJBC
-
 
 ## Freelance Digital Marketing, Sysadmin, Writing & Editing
 
@@ -116,8 +110,6 @@ I write science fiction series and short stories about morally and mentally stro
 
 I also have edited several anthologies.
 
-### Content
-
 * [http://georgedonnelly.com/](http://georgedonnelly.com/)
 * [https://www.goodreads.com/author/show/8388247.George_Donnelly](https://www.goodreads.com/author/show/8388247.George_Donnelly)
 * [https://www.facebook.com/AuthorGeorgeDonnelly](https://www.facebook.com/AuthorGeorgeDonnelly)
@@ -138,8 +130,6 @@ Buy my novels.
 ## Libertarian Activism
 
 The immediate goal for More Liberty Now (MLN) is to identify the most efficient vectors for empowering individuals worldwide to reclaim our liberty – all of it, not just “civil liberties” or government-approved rights – through better ideas, tools, lifestyles and processes. [Read more](http://morelibertynow.com/about/).
-
-### Content
 
 * [http://morelibertynow.com/](http://morelibertynow.com/)
 
