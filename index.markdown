@@ -85,7 +85,7 @@ We're currently running a crowdfunding campaign and selling PAN SLP tokens at [h
 * BCH: bitcoincash:qqa5fels0wz5ugwa23eenqff5ahxxzfvsue4kr574s
 * BTC: 16QPQzXAqFcSxhxgqUa8vsfaxJKCQ4aJBC
 
-## Freelance Digital Marketing, Sysadmin, Writing & Editing
+## Freelance
 
 I have a lot of skills you can hire freelance, including the below. Hire me. Full information at [http://georgedonnelly.ninja/](http://georgedonnelly.ninja/). 
 
