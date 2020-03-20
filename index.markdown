@@ -18,7 +18,7 @@ Whoopi Goldberg called me a terrorist on [national network TV](https://www.youtu
 
 I love to work with honest, transparent people who are on compatible missions.
 
-My goal as a human being is to be entirely present in the moment and to always present my best self to whatever reality presents me with, and to limit my downside from that.
+My goal as a human being is to be entirely present in the moment and to always present my best self to whatever challenges reality brings my way, and to limit my downside from that.
 
 * [me@georgedonnelly.com](mailto:me@georgedonnelly.com)
 * [https://t.me/georgedonnelly](https://t.me/georgedonnelly)
@@ -87,7 +87,7 @@ We're currently running a crowdfunding campaign and selling PAN SLP tokens at [h
 
 ## Freelance Digital Marketing, Sysadmin, Writing & Editing
 
-I have a lot of skills you can hire freelance, including the following. Hire me. Full information at [http://georgedonnelly.ninja/](http://georgedonnelly.ninja/). 
+I have a lot of skills you can hire freelance, including the below. Hire me. Full information at [http://georgedonnelly.ninja/](http://georgedonnelly.ninja/). 
 
 Email [me@georgedonnelly.com](mailto:me@georgedonnelly.com) and/or schedule a free consultation [here](https://calendly.com/georgedonnelly/15min)
 
