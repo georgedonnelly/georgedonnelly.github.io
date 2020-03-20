@@ -2,7 +2,7 @@
 
 Hi, I'm George Donnelly and I'd like to work with you to achieve universal liberty and prosperity.
 
-You in? OK, let's get up to speed fast. Here is my information. Send me your about page to me@georgedonnelly.com.
+You in? OK, let's get up to speed fast. Here is my information. Send me your about page to [me@georgedonnelly.com](mailto:me@georgedonnelly.com).
 
 ## Bio
 
@@ -14,6 +14,8 @@ Whoopi Goldberg called me a terrorist on national network TV and CNN says I’m 
 
 
 ## Personal Content
+
+My goal as a human being is to be entirely present in the moment and in always presenting my best self to whatever reality presents me with, and to not completely screw up my life.
 
 * me@georgedonnelly.com
 * https://t.me/georgedonnelly
@@ -40,3 +42,6 @@ Whoopi Goldberg called me a terrorist on national network TV and CNN says I’m 
 * bitcoincash:qp4r28utx9y33xtq35t0ar6dh39r3m474q2hr3f5ze
 * https://cointr.ee/georgedonnelly
 * http://paypal.me/georgedonnelly
+
+
+## Panmoni-BCHLatam
