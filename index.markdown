@@ -8,9 +8,11 @@ You in? OK, let's get up to speed fast. Below is my information. Send me your ab
 
 I am a libertarian thinker, cryptocurrency entrepreneur and digital communicator resident in Medellín, Colombia. My goal is to facilitate the creation of a world where transnational commercial cooperatives and other forms of stateless governance play a leading role, and have supplanted the nation-state as the dominant mode of governance.
 
-I have professional experience in sales, investment banking, teaching English as a foreign language (TEFL), high-performance web application hosting and consulting, firearms safety, copywriting, multiple forms of writing, cryptocurrency mass adoption, working for a DAO and founding startups. I have a bachelor's degree in history from the University of Chicago.
+I have professional experience in sales, investment banking, teaching English as a foreign language (TEFL), high-performance web application hosting and consulting, firearms safety, copywriting, multiple other forms of writing, cryptocurrency mass adoption, working for a DAO and founding startups. I have a bachelor's degree in history from the University of Chicago.
 
-I'm also a science fiction author, unschooling dad, aikidoka, former Chicago cabbie and Gandhian nonviolence enthusiast (satyagraha). I am a fluent speaker of native-level Spanish. I have also studied and spoken Japanese and German. My MBTI is INTJ. I have lived in Philadelphia, Chicago, Osaka, Kobe, Medellín and Bogotá.
+I am a fluent speaker of native-level Spanish. I have also studied and spoken Japanese and German.
+
+I'm also a science fiction author, unschooling dad, aikidoka, former Chicago cabbie and Gandhian nonviolence enthusiast (satyagraha). My MBTI is INTJ. I have lived in Philadelphia, Chicago, Osaka, Kobe, Medellín and Bogotá.
 
 Whoopi Goldberg called me a terrorist on [national network TV](https://www.youtube.com/watch?v=eEYhGyLCZko) and CNN says I’m [intriguing](https://news.blogs.cnn.com/2010/11/24/wednesdays-intriguing-people-35/).
 
