@@ -22,7 +22,7 @@ My goal as a human being is to be entirely present in the moment and to always p
 
 ### Keep in Touch
 
-The best way to keep in touch is to follow me on Twitter. But we can also keep in touch on these platforms below.
+The best way to keep in touch is to [follow me on Twitter](https://twitter.com/georgedonnelly). But we can also keep in touch on these platforms below.
 
 * [me@georgedonnelly.com](mailto:me@georgedonnelly.com)
 * [https://t.me/georgedonnelly](https://t.me/georgedonnelly)
