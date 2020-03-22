@@ -12,7 +12,7 @@ I have professional experience in sales, investment banking, teaching English as
 
 I am a fluent speaker of native-level Spanish. I have also studied and spoken Japanese and German.
 
-I'm also a science fiction author, unschooling dad, aikidoka, former Chicago cabbie and Gandhian nonviolence enthusiast (satyagraha). My MBTI is INTJ. I have lived in Philadelphia, Chicago, Osaka, Kobe, Medellín and Bogotá.
+I'm also a science fiction author, unschooling dad, aikidoka, former Chicago cabbie and Gandhian nonviolence enthusiast (satyagraha). My MBTI is INTJ. I have lived in Philadelphia (9y), Chicago (8y), Osaka (2y), Kobe (2y), Medellín (17y) and Bogotá (1y).
 
 Whoopi Goldberg called me a terrorist on [national network TV](https://www.youtube.com/watch?v=eEYhGyLCZko) and CNN says I’m [intriguing](https://news.blogs.cnn.com/2010/11/24/wednesdays-intriguing-people-35/).
 
@@ -129,7 +129,7 @@ I also have edited several anthologies.
 The best way to keep in touch is to get on my science fiction mailing list here.
 
 * [http://georgedonnelly.com/](http://georgedonnelly.com/)
-* [https://www.goodreads.com/author/show/8388247.George_Donnelly](https://www.goodreads.com/author/show/8388247.George_Donnelly)
+* [https://www.goodreads.com/georgedonnelly](https://www.goodreads.com/georgedonnelly)
 * [https://www.facebook.com/AuthorGeorgeDonnelly](https://www.facebook.com/AuthorGeorgeDonnelly)
 * [https://www.wattpad.com/user/georgedonnelly](https://www.wattpad.com/user/georgedonnelly)
 
