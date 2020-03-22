@@ -8,7 +8,7 @@ You in? OK, let's get up to speed fast. Below is my information. Send me your ab
 
 I am a libertarian thinker, cryptocurrency entrepreneur and digital communicator resident in Medellín, Colombia. My goal is to facilitate the creation of a world where transnational commercial cooperatives and other forms of stateless governance play a leading role, and have supplanted the nation-state as the dominant mode of governance.
 
-I have professional experience in sales, investment banking, teaching English as a foreign language (TEFL), high-performance web application hosting and consulting, firearms safety, copywriting, multiple other forms of writing, cryptocurrency mass adoption, working for a DAO and founding startups. I have a bachelor's degree in history from the University of Chicago.
+I have professional experience in sales, investment banking, teaching English as a foreign language (TEFL), high-performance web application hosting and consulting, firearms safety, copywriting, multiple other forms of writing, cryptocurrency mass adoption, working for a DAO and founding startups & small businesses. I have a bachelor's degree in history from the University of Chicago.
 
 I am a fluent speaker of native-level Spanish. I have also studied and spoken Japanese and German.
 
@@ -19,6 +19,10 @@ Whoopi Goldberg called me a terrorist on [national network TV](https://www.youtu
 I love to work with honest, transparent people who are on compatible missions.
 
 My goal as a human being is to be entirely present in the moment and to always present my best self to whatever challenges reality brings my way, and to limit my downside from that.
+
+### Keep in Touch
+
+The best way to keep in touch is to follow me on Twitter. But we can also keep in touch on these platforms below.
 
 * [me@georgedonnelly.com](mailto:me@georgedonnelly.com)
 * [https://t.me/georgedonnelly](https://t.me/georgedonnelly)
@@ -33,6 +37,7 @@ My goal as a human being is to be entirely present in the moment and to always p
 * [https://memo.cash/profile/18nM7JhhSLbxARSyhiKQXQSNrqJDpbjxxW](https://memo.cash/profile/18nM7JhhSLbxARSyhiKQXQSNrqJDpbjxxW)
 * [https://hive.blog/@georgedonnelly](https://hive.blog/@georgedonnelly)
 * [https://flote.app/georgedonnelly](https://flote.app/georgedonnelly)
+* [https://liberdon.com/@georgedonnelly](https://liberdon.com/@georgedonnelly)
 * [https://mastodon.social/@georgedonnelly](https://mastodon.social/@georgedonnelly)
 * [https://github.com/georgedonnelly](https://github.com/georgedonnelly)
 * [https://medium.com/@georgedonnelly](https://medium.com/@georgedonnelly)
@@ -68,16 +73,23 @@ I aim to make Bitcoin Cash the international currency of Latin America, ameliora
 
 Join the [BCH Ignite Discord](https://discord.gg/xvK5p7t) and start self-organizing. Here is the [concept](https://read.cash/@georgedonnelly/join-bch-ignite-building-bch-adoption-in-the-developing-world-c094a8f6).
 
+### Keep in Touch
+
+The best way to keep in touch is to get on the Panmoni-BCHLatam mailing list here.
+
 * [http://buidldaily.com/](http://buidldaily.com/) (English site)
 * [http://bchlatam.com/](http://bchlatam.com/) (Spanish site)
 * [https://twitter.com/bchlatam](https://twitter.com/bchlatam)
 * [https://www.youtube.com/channel/UCjizxJYH0K7oYhW6gQ9iG4g](https://www.youtube.com/channel/UCjizxJYH0K7oYhW6gQ9iG4g) (Spanish)
 * [https://www.youtube.com/channel/UCDFNiWpExuXx1j51hPb8WLQ](https://www.youtube.com/channel/UCDFNiWpExuXx1j51hPb8WLQ) (English)
+* [https://memo.cash/profile/1HMGGjoN1uStmJdA8j2mBWEZ1c9HcjWQQH](https://memo.cash/profile/1HMGGjoN1uStmJdA8j2mBWEZ1c9HcjWQQH)
 * [https://www.instagram.com/bchlatam/](https://www.instagram.com/bchlatam/)
 * [https://www.facebook.com/BCHLatam/](https://www.facebook.com/BCHLatam/)
 * [https://www.reddit.com/r/BCHLatam/](https://www.reddit.com/r/BCHLatam/)
 
 ### Support
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ifOZRxjFNk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We're currently running a crowdfunding campaign and selling PAN SLP tokens at [http://bchlatam.com/crowdfunding2020](http://bchlatam.com/crowdfunding2020/). Please request a copy of our business plan by email to [george@bchlatam.com](mailto:george@bchlatam.com) and join our project.
 
@@ -112,6 +124,10 @@ I write science fiction series and short stories about morally and mentally stro
 
 I also have edited several anthologies.
 
+### Keep in Touch
+
+The best way to keep in touch is to get on my science fiction mailing list here.
+
 * [http://georgedonnelly.com/](http://georgedonnelly.com/)
 * [https://www.goodreads.com/author/show/8388247.George_Donnelly](https://www.goodreads.com/author/show/8388247.George_Donnelly)
 * [https://www.facebook.com/AuthorGeorgeDonnelly](https://www.facebook.com/AuthorGeorgeDonnelly)
@@ -119,7 +135,7 @@ I also have edited several anthologies.
 
 ### Support
 
-Buy my novels.
+Buy my novels at these retailers.
 
 * [https://www.amazon.com/George-Donnelly/e/B00LU1BB0G/](https://www.amazon.com/George-Donnelly/e/B00LU1BB0G/)
 * [https://books.apple.com/us/author/george-donnelly/id920186317](https://books.apple.com/us/author/george-donnelly/id920186317)
@@ -132,6 +148,12 @@ Buy my novels.
 ## Libertarian Activism
 
 The immediate goal for More Liberty Now (MLN) is to identify the most efficient vectors for empowering individuals worldwide to reclaim our liberty – all of it, not just “civil liberties” or government-approved rights – through better ideas, tools, lifestyles and processes. [Read more](http://morelibertynow.com/about/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UfDjnO12Mys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Keep in Touch
+
+The best way to keep in touch is to get on my More Liberty Now mailing list here.
 
 * [http://morelibertynow.com/](http://morelibertynow.com/)
 
