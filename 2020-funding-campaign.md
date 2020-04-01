@@ -30,8 +30,8 @@ For full information on the Bitcoin ABC 2020 Bitcoin Cash Protocol Development F
 
 <p>George Donnelly <br />
 Business Development Manager @ Bitcoin ABC<br />
-[george@bitcoinabc.org](mailto:george@bitcoinabc.org)<br />
-[https://t.me/georgedonnelly](https://t.me/georgedonnelly)<br />
+<a href="mailto:george@bitcoinabc.org">george@bitcoinabc.org</a><br />
+<a href="https://t.me/georgedonnelly">https://t.me/georgedonnelly</a><br />
 +573218423668 (cell, Signal, Whatsapp)</p>
 
 A press kit, including translations of this press release, is available at [https://fund.bitcoinabc.org](https://fund.bitcoinabc.org).
