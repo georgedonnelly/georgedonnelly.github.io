@@ -39,7 +39,6 @@ A press kit, including translations of this press release, is available at [http
 ## About Bitcoin ABC
 
 Bitcoin ABC is a leading full node implementation of the Bitcoin Cash protocol. Bitcoin ABC aims to provide a solid, stable software and help lead Bitcoin Cash protocol development with an open and collaborative process.
-
 Bitcoin ABC Lead Developer Amaury Séchet led the fork of Bitcoin Cash from Bitcoin Core in 2017 and has grown the team since then to encompass world-class talent in multiple fields.
 
 Please find more information on Bitcoin ABC at [https://www.bitcoinabc.org](https://www.bitcoinabc.org).
