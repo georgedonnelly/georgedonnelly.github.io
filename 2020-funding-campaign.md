@@ -28,17 +28,18 @@ For full information on the Bitcoin ABC 2020 Bitcoin Cash Protocol Development F
 
 ## Press Contact
 
-<p>George Donnelly <br />
-Business Development Manager @ Bitcoin ABC<br />
-<a href="mailto:george@bitcoinabc.org">george@bitcoinabc.org</a><br />
-<a href="https://t.me/georgedonnelly">https://t.me/georgedonnelly</a><br />
-+573218423668 (cell, Signal, Whatsapp)</p>
+George Donnelly
+Business Development Manager @ Bitcoin ABC
+[george@bitcoinabc.org](mailto:george@bitcoinabc.org)
+[https://t.me/georgedonnelly](https://t.me/georgedonnelly)
++573218423668 (cell, Signal, Whatsapp)
 
 A press kit, including translations of this press release, is available at [https://fund.bitcoinabc.org](https://fund.bitcoinabc.org).
 
 ## About Bitcoin ABC
 
 Bitcoin ABC is a leading full node implementation of the Bitcoin Cash protocol. Bitcoin ABC aims to provide a solid, stable software and help lead Bitcoin Cash protocol development with an open and collaborative process.
+
 Bitcoin ABC Lead Developer Amaury Séchet led the fork of Bitcoin Cash from Bitcoin Core in 2017 and has grown the team since then to encompass world-class talent in multiple fields.
 
 Please find more information on Bitcoin ABC at [https://www.bitcoinabc.org](https://www.bitcoinabc.org).
