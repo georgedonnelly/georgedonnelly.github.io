@@ -29,6 +29,7 @@ The best way to keep in touch is to [follow me on Twitter](https://twitter.com/g
 * [https://api.whatsapp.com/send?phone=573218423668](https://api.whatsapp.com/send?phone=573218423668)
 * [https://www.linkedin.com/in/georgedonnelly/](https://www.linkedin.com/in/georgedonnelly/)
 * [https://twitter.com/georgedonnelly](https://twitter.com/georgedonnelly)
+* WeChat ID: georgedonnelly
 * [https://keybase.io/georgedonnelly](https://keybase.io/georgedonnelly)
 * [https://www.youtube.com/georgedonnelly](https://www.youtube.com/georgedonnelly)
 * [https://www.reddit.com/user/georgedonnelly/](https://www.reddit.com/user/georgedonnelly/)
@@ -47,6 +48,8 @@ The best way to keep in touch is to [follow me on Twitter](https://twitter.com/g
 * [https://gab.com/georgedonnelly](https://gab.com/georgedonnelly)
 * [https://steemit.com/@georgedonnelly](https://steemit.com/@georgedonnelly)
 * [https://linktr.ee/georgedonnelly](https://linktr.ee/georgedonnelly)
+
+![WeChat ID georgedonnelly](https://i.imgur.com/VToqX2K.jpg)
 
 ### Support
 
