@@ -80,7 +80,7 @@ Join the [BCH Ignite Discord](https://discord.gg/xvK5p7t) and start self-organiz
 
 The best way to keep in touch is to get on the Panmoni-BCHLatam mailing list here.
 
-* [http://buidldaily.com/](http://buidldaily.com/) (English site)
+* [http://morelibertynow.com/](http://morelibertynow.com/) (English site)
 * [http://bchlatam.com/](http://bchlatam.com/) (Spanish site)
 * [https://twitter.com/bchlatam](https://twitter.com/bchlatam)
 * [https://www.youtube.com/channel/UCjizxJYH0K7oYhW6gQ9iG4g](https://www.youtube.com/channel/UCjizxJYH0K7oYhW6gQ9iG4g) (Spanish)
