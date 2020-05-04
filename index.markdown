@@ -160,6 +160,11 @@ The best way to keep in touch is to get on my More Liberty Now mailing list here
 
 * [http://morelibertynow.com/](http://morelibertynow.com/)
 
+
+## Archived Projects
+
+* [http://pan.georgedonnelly.com/](Pan Money)
+
 ## Favorite Quotes
 
 "But at any rate, the point is that God is what nobody admits to being, and everybody really is." - Alan Watts
