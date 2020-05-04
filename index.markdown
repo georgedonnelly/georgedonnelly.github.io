@@ -164,6 +164,7 @@ The best way to keep in touch is to get on my More Liberty Now mailing list here
 ## Archived Projects
 
 * [Pan Money](http://pan.georgedonnelly.com)
+* [Shield Mutual](http://shieldmutual.georgedonnelly.com/)
 
 ## Favorite Quotes
 
