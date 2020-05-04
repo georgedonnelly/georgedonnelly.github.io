@@ -163,7 +163,7 @@ The best way to keep in touch is to get on my More Liberty Now mailing list here
 
 ## Archived Projects
 
-* [http://pan.georgedonnelly.com/](Pan Money)
+* [Pan Money](http://pan.georgedonnelly.com)
 
 ## Favorite Quotes
 
