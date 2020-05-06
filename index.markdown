@@ -8,7 +8,7 @@ You in? OK, let's get up to speed fast. Below is my information. Send me your ab
 
 I am a libertarian thinker, cryptocurrency entrepreneur and digital communicator resident in Medellín, Colombia. My goal is to facilitate the creation of a world where transnational commercial cooperatives and other forms of stateless governance play a leading role, and have supplanted the nation-state as the dominant mode of governance.
 
-I have professional experience in Unix/Linux systems administration, digital marketing, sales, investment banking, teaching English as a foreign language (TEFL/TESOL), high-performance web application hosting and consulting, firearms safety, copywriting, multiple other forms of writing, cryptocurrency mass adoption, working for a DAO and founding startups & small businesses that leverage cutting-edge technology. 
+I have professional experience in business development, Unix/Linux systems administration, digital marketing, sales, investment banking, teaching English as a foreign language (TEFL/TESOL), high-performance web application hosting and consulting, firearms safety, copywriting, multiple other forms of writing, cryptocurrency mass adoption, working for a DAO and founding startups & small businesses that leverage cutting-edge technology. 
 
 I have a bachelor's degree in history from the University of Chicago. I am a fluent speaker of native-level Spanish. I have also studied and spoken Japanese and German.
 
