@@ -388,5 +388,5 @@ The best way to keep in touch is to get on my More Liberty Now mailing list here
 * Nominated for the 2016 eFestival of Words Best of the Independent eBook Awards – May 2016
 * Sam Adams Alliance Irreverent Messenger Dec 2010
 * CNN’s Most Intriguing People Nov 2010
-* Golden Handcuffs Jun 2010
-* Best Letter to the Editor on Eminent Domain Oct 2009
+* PorcFest Golden Handcuffs Jun 2010
+* Best Letter to the Editor on Eminent Domain Pennsylvania LP Oct 2009
