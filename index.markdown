@@ -24,6 +24,8 @@ My goal as a human being is to be entirely present in the moment and to always p
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="georgedonnelly"><a class="LI-simple-link" href='https://co.linkedin.com/in/georgedonnelly?trk=profile-badge'>George Donnelly</a></div>
 
+ 
+
 ### Keep in Touch
 
 The best way to keep in touch is to [follow me on Twitter](https://twitter.com/georgedonnelly). But we can also keep in touch on these platforms below.
