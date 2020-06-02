@@ -2,7 +2,7 @@
 
 Hi, I'm George Donnelly and I'd like to work with you to achieve universal liberty and prosperity.
 
-You in? OK, let's get up to speed fast. Below is my information. Send me your about page to [me@georgedonnelly.com](mailto:me@georgedonnelly.com) and schedule a call [here](https://calendly.com/georgedonnelly/15min).
+You in? OK, let's get up to speed fast. Below is my information. Send me your about page to [me@georgedonnelly.com](mailto:me@georgedonnelly.com) and schedule a call [here](https://meetings.hubspot.com/george264).
 
 ## Bio
 
