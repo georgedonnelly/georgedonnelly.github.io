@@ -2,7 +2,7 @@
 
 Hi, I'm George Donnelly and I'd like to work with you to achieve universal liberty and prosperity.
 
-You in? OK, let's get up to speed fast. Below is my information. Send me your about page to [me@georgedonnelly.com](mailto:me@georgedonnelly.com) and schedule a call [here](https://meetings.hubspot.com/george264).
+You in? OK, let's get up to speed fast. Below is my information. Send me your about page to [me@georgedonnelly.com](mailto:me@georgedonnelly.com) and schedule a call [here](https://calendly.com/georgedonnelly).
 
 ## Bio
 
@@ -12,7 +12,7 @@ I have professional experience in business development, Unix/Linux systems admin
 
 I have a bachelor's degree in history from the University of Chicago. I am a fluent speaker of native-level Spanish. I have also studied and spoken Japanese and German.
 
-I'm also a science fiction author, unschooling dad, aikidoka, former Chicago cabbie and Gandhian nonviolence enthusiast (satyagraha). My MBTI is INTJ. I have lived in Philadelphia (9y), Chicago (8y), Osaka (2y), Kobe (2y), Medellín (17y) and Bogotá (1y).
+I'm also a science fiction author, unschooling dad, aikidoka, former Chicago cabbie and Gandhian nonviolence enthusiast (satyagraha). My MBTI is INTJ. I have lived in rural Appalachia (9y), Philadelphia (9y), Chicago (8y), Osaka (2y), Kobe (2y), Medellín (17y) and Bogotá (1y).
 
 Whoopi Goldberg called me a terrorist on [national network TV](https://www.youtube.com/watch?v=eEYhGyLCZko) and CNN says I’m [intriguing](https://news.blogs.cnn.com/2010/11/24/wednesdays-intriguing-people-35/).
 
