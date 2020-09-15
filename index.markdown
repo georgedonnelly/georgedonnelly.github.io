@@ -48,6 +48,7 @@ The best way to keep in touch is to [follow me on Twitter](https://twitter.com/g
 * [https://gab.com/georgedonnelly](https://gab.com/georgedonnelly)
 * [https://steemit.com/@georgedonnelly](https://steemit.com/@georgedonnelly)
 * [https://linktr.ee/georgedonnelly](https://linktr.ee/georgedonnelly)
+* [https://cointr.ee/georgedonnelly](https://cointr.ee/georgedonnelly)
 
 ![WeChat ID georgedonnelly](https://i.imgur.com/VToqX2K.jpg)
 
@@ -58,17 +59,11 @@ The best way to keep in touch is to [follow me on Twitter](https://twitter.com/g
 * [https://cointr.ee/georgedonnelly](https://cointr.ee/georgedonnelly)
 * [http://paypal.me/georgedonnelly](http://paypal.me/georgedonnelly)
 
-## Bitcoin ABC
+## BitcoinCash.site
 
-I am working to fund Bitcoin Cash protocol development as Business Development Manager at Bitcoin ABC, the independent development group that maintains the Bitcoin ABC full node software that mines almost 100% of Bitcoin Cash blocks. Bitcoin ABC is focused on scaling Bitcoin Cash to billions of daily users and 10,000 transactions per second.
+BitcoinCash.site is a marketing and onboarding hub for Bitcoin Cash in service of the goal of onboarding 1 million new people to Bitcoin Cash by 31 Dec 2021.
 
-We have a business plan and I am very interested to speak with Bitcoin Cash and cryptocurrency miners and businesses about how we can grow together. Email me at [george@bitcoinabc.org](mailto:george@bitcoinabc.org) or schedule a presentation of the Bitcoin ABC 2020 plan [here](https://calendly.com/bitcoinabc/bizplan2020) (priority given to BCH miners and businesses at this time).
-
-* [https://www.bitcoinabc.org/](https://www.bitcoinabc.org/)
-* [https://twitter.com/bitcoin_abc](https://twitter.com/bitcoin_abc)
-* [https://www.facebook.com/bitcoinabc.org/](https://www.facebook.com/bitcoinabc.org/)
-* [https://read.cash/@Bitcoin_ABC](https://read.cash/@Bitcoin_ABC)
-* [https://medium.com/@bitcoin_abc](https://medium.com/@bitcoin_abc)
+Get more details at [https://flipstarter.bitcoincash.site/](https://flipstarter.bitcoincash.site/).
 
 ## Panmoni-BCHLatam
 
