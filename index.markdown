@@ -1,30 +1,31 @@
 # Universal Liberty and Prosperity
 
-Hi, I'm George Donnelly and I'd like to work with you to achieve universal liberty and prosperity.
-
-You in? OK, let's get up to speed fast. Below is my information. Send me your about page to [me@georgedonnelly.com](mailto:me@georgedonnelly.com) and schedule a call [here](https://calendly.com/georgedonnelly).
+Hi, I'm George Donnelly and I'm working to achieve universal liberty and prosperity.
 
 ## Bio
 
 I am a libertarian thinker, cryptocurrency entrepreneur and digital communicator resident in Medellín, Colombia. My goal is to facilitate the creation of a world where transnational commercial cooperatives and other forms of stateless governance play a leading role, and have supplanted the nation-state as the dominant mode of governance.
 
-I have professional experience in business development, Unix/Linux systems administration, digital marketing, sales, investment banking, teaching English as a foreign language (TEFL/TESOL), high-performance web application hosting and consulting, firearms safety, copywriting, multiple other forms of writing, cryptocurrency mass adoption, working for a DAO and founding startups & small businesses that leverage cutting-edge technology. 
+I have professional experience in business development, Unix/Linux systems administration, digital marketing, sales, investment banking, teaching English as a foreign language (TEFL/TESOL), high-performance web application hosting and consulting, firearms safety, copywriting, cryptocurrency mass adoption, working for a DAO and founding startups & small businesses that leverage cutting-edge technology. 
 
 I have a bachelor's degree in history from the University of Chicago. I am a fluent speaker of native-level Spanish. I have also studied and spoken Japanese and German.
 
 I'm also a science fiction author, unschooling dad, aikidoka, former Chicago cabbie and Gandhian nonviolence enthusiast (satyagraha). My MBTI is INTJ. I have lived in rural Appalachia (9y), Philadelphia (9y), Chicago (8y), Osaka (2y), Kobe (2y), Medellín (18y) and Bogotá (1y).
 
+Politically, I am a voluntaryist / market anarchist / agorist.
+
 Whoopi Goldberg called me a terrorist on [national network TV](https://www.youtube.com/watch?v=eEYhGyLCZko) and CNN says I’m [intriguing](https://news.blogs.cnn.com/2010/11/24/wednesdays-intriguing-people-35/).
 
 I love to work with honest, transparent people who are on compatible missions.
-
-My goal as a human being is to be entirely present in the moment and to always present my best self to whatever challenges reality brings my way, and to limit my downside from that.
 
 ## Listen to my Podcast
 
 <div id='buzzsprout-large-player-1495093'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1495093.js?container_id=buzzsprout-large-player-1495093&player=large'></script>
 
 ## Reach Out
+
+Email [me@georgedonnelly.com](mailto:me@georgedonnelly.com) or schedule a call [here](https://calendly.com/georgedonnelly). We can also chat on Telegram: [https://t.me/georgedonnelly](https://t.me/georgedonnelly)
+
 
 ## Keep in Touch
 
@@ -35,11 +36,10 @@ The best way to keep in touch is to [follow me on Twitter](https://twitter.com/g
 * [https://api.whatsapp.com/send?phone=573218423668](https://api.whatsapp.com/send?phone=573218423668)
 * [https://www.linkedin.com/in/georgedonnelly/](https://www.linkedin.com/in/georgedonnelly/)
 * [https://twitter.com/georgedonnelly](https://twitter.com/georgedonnelly)
-* WeChat ID: georgedonnelly
+* [WeChat ID georgedonnelly](https://i.imgur.com/VToqX2K.jpg)
 * [https://keybase.io/georgedonnelly](https://keybase.io/georgedonnelly)
 * [https://www.youtube.com/georgedonnelly](https://www.youtube.com/georgedonnelly)
 * [https://www.reddit.com/user/georgedonnelly/](https://www.reddit.com/user/georgedonnelly/)
-* [https://read.cash/@georgedonnelly](https://read.cash/@georgedonnelly)
 * [https://www.facebook.com/george.donnelly](https://www.facebook.com/george.donnelly)
 * [https://memo.cash/profile/18nM7JhhSLbxARSyhiKQXQSNrqJDpbjxxW](https://memo.cash/profile/18nM7JhhSLbxARSyhiKQXQSNrqJDpbjxxW)
 * [https://hive.blog/@georgedonnelly](https://hive.blog/@georgedonnelly)
@@ -49,19 +49,20 @@ The best way to keep in touch is to [follow me on Twitter](https://twitter.com/g
 * [https://github.com/georgedonnelly](https://github.com/georgedonnelly)
 * [https://medium.com/@georgedonnelly](https://medium.com/@georgedonnelly)
 * [https://www.instagram.com/georgedonnelly/](https://www.instagram.com/georgedonnelly/)
-* [https://flickr.com/photos/cyklo/](https://flickr.com/photos/cyklo/)
-* [https://www.twitch.tv/georgedonnelly](https://www.twitch.tv/georgedonnelly)
 * [https://gab.com/georgedonnelly](https://gab.com/georgedonnelly)
 * [https://steemit.com/@georgedonnelly](https://steemit.com/@georgedonnelly)
-* [https://linktr.ee/georgedonnelly](https://linktr.ee/georgedonnelly)
 * [https://cointr.ee/georgedonnelly](https://cointr.ee/georgedonnelly)
 
-![WeChat ID georgedonnelly](https://i.imgur.com/VToqX2K.jpg)
+### Media
+
+* [https://vimeo.com/bitcoincashsite](https://vimeo.com/bitcoincashsite)
+* [http://morelibertynow.com/](http://morelibertynow.com/)
+* [https://read.cash/@georgedonnelly](https://read.cash/@georgedonnelly)
+* [https://lbry.tv/@georgedonnelly:8](https://lbry.tv/@georgedonnelly:8)
 
 ### Support
 
-* BCH: GeorgeDonnelly#57560
-* bitcoincash:qp4r28utx9y33xtq35t0ar6dh39r3m474q2hr3f5ze
+* bitcoincash:qryaffpg2vct70mag3dnrgd80m0emjk2tyukg9eh6c
 * [https://cointr.ee/georgedonnelly](https://cointr.ee/georgedonnelly)
 * [http://paypal.me/georgedonnelly](http://paypal.me/georgedonnelly)
 
@@ -69,41 +70,17 @@ The best way to keep in touch is to [follow me on Twitter](https://twitter.com/g
 
 BitcoinCash.site is a marketing and onboarding hub for Bitcoin Cash in service of the goal of onboarding 1 million new people to Bitcoin Cash by 31 Dec 2021.
 
-Get more details at [https://flipstarter.bitcoincash.site/](https://flipstarter.bitcoincash.site/).
+Get more details at [https://bitcoincash.site/](https://bitcoincash.site/).
 
-## Panmoni-BCHLatam
+## Panmoni
 
 I aim to make Bitcoin Cash the international currency of Latin America, ameliorating poverty, enabling job & wealth creation, and sparking an economic growth “miracle” in the developing world.
 
-Join the [BCH Ignite Discord](https://discord.gg/xvK5p7t) and start self-organizing. Here is the [concept](https://read.cash/@georgedonnelly/join-bch-ignite-building-bch-adoption-in-the-developing-world-c094a8f6).
-
-### Keep in Touch
-
-The best way to keep in touch is to get on the Panmoni-BCHLatam mailing list here.
-
-* [http://morelibertynow.com/](http://morelibertynow.com/) (English site)
-* [http://bchlatam.com/](http://bchlatam.com/) (Spanish site)
-* [https://twitter.com/bchlatam](https://twitter.com/bchlatam)
-* [https://www.youtube.com/channel/UCjizxJYH0K7oYhW6gQ9iG4g](https://www.youtube.com/channel/UCjizxJYH0K7oYhW6gQ9iG4g) (Spanish)
-* [https://www.youtube.com/channel/UCDFNiWpExuXx1j51hPb8WLQ](https://www.youtube.com/channel/UCDFNiWpExuXx1j51hPb8WLQ) (English)
-* [https://memo.cash/profile/1HMGGjoN1uStmJdA8j2mBWEZ1c9HcjWQQH](https://memo.cash/profile/1HMGGjoN1uStmJdA8j2mBWEZ1c9HcjWQQH)
-* [https://www.instagram.com/bchlatam/](https://www.instagram.com/bchlatam/)
-* [https://www.facebook.com/BCHLatam/](https://www.facebook.com/BCHLatam/)
-* [https://www.reddit.com/r/BCHLatam/](https://www.reddit.com/r/BCHLatam/)
-
-### Support
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ifOZRxjFNk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-We're currently running a crowdfunding campaign and selling PAN SLP tokens at [http://bchlatam.com/crowdfunding2020](http://bchlatam.com/crowdfunding2020/). Please request a copy of our business plan by email to [george@bchlatam.com](mailto:george@bchlatam.com) and join our project.
-
-* BCH: BCHLatam#62500
-* BCH: bitcoincash:qqa5fels0wz5ugwa23eenqff5ahxxzfvsue4kr574s
-* BTC: 16QPQzXAqFcSxhxgqUa8vsfaxJKCQ4aJBC
+Read the business plan: [https://www.dropbox.com/s/jgsuo80mn9b9ltj/](https://www.dropbox.com/s/jgsuo80mn9b9ltj/)
 
 ## Freelance
 
-I have a lot of skills you can hire freelance, including the below. Hire me. Full information at [http://georgedonnelly.ninja/](http://georgedonnelly.ninja/). 
+I have a lot of skills you can hire freelance, including the below. Hire me.
 
 Email [me@georgedonnelly.com](mailto:me@georgedonnelly.com) and/or schedule a free consultation [here](https://calendly.com/georgedonnelly/15min)
 
@@ -128,10 +105,6 @@ I write science fiction series and short stories about morally and mentally stro
 
 I also have edited several anthologies.
 
-### Keep in Touch
-
-The best way to keep in touch is to get on my science fiction mailing list here.
-
 * [http://georgedonnelly.com/](http://georgedonnelly.com/)
 * [https://www.goodreads.com/georgedonnelly](https://www.goodreads.com/georgedonnelly)
 * [https://www.facebook.com/AuthorGeorgeDonnelly](https://www.facebook.com/AuthorGeorgeDonnelly)
@@ -154,10 +127,6 @@ Buy my novels at these retailers.
 The immediate goal for More Liberty Now (MLN) is to identify the most efficient vectors for empowering individuals worldwide to reclaim our liberty – all of it, not just “civil liberties” or government-approved rights – through better ideas, tools, lifestyles and processes. [Read more](http://morelibertynow.com/about/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UfDjnO12Mys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Keep in Touch
-
-The best way to keep in touch is to get on my More Liberty Now mailing list here.
 
 * [http://morelibertynow.com/](http://morelibertynow.com/)
 
