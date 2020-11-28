@@ -20,6 +20,8 @@ I love to work with honest, transparent people who are on compatible missions.
 
 ## Listen to my Podcast
 
+Get more information at [podcast.bitcoincash.site](http://podcast.bitcoincash.site/).
+
 <div id='buzzsprout-large-player-1495093'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1495093.js?container_id=buzzsprout-large-player-1495093&player=large'></script>
 
 ## Reach Out
