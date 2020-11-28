@@ -20,7 +20,13 @@ I love to work with honest, transparent people who are on compatible missions.
 
 My goal as a human being is to be entirely present in the moment and to always present my best self to whatever challenges reality brings my way, and to limit my downside from that.
 
-### Keep in Touch
+## Listen to my Podcast
+
+<div id='buzzsprout-large-player-1495093'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1495093.js?container_id=buzzsprout-large-player-1495093&player=large'></script>
+
+## Reach Out
+
+## Keep in Touch
 
 The best way to keep in touch is to [follow me on Twitter](https://twitter.com/georgedonnelly). But we can also keep in touch on these platforms below.
 
