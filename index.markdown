@@ -24,7 +24,7 @@ Get more information at [podcast.bitcoincash.site](http://podcast.bitcoincash.si
 
 ## Reach Out
 
-Email [me@georgedonnelly.com](mailto:me@georgedonnelly.com) or schedule a call [here](https://calendly.com/georgedonnelly). We can also chat on Telegram: [https://t.me/georgedonnelly](https://t.me/georgedonnelly)
+Email [me@georgedonnelly.com](mailto:me@georgedonnelly.com) or schedule a call [here](https://calendly.com/georgedonnelly). We can also chat on Telegram: [t.me/georgedonnelly](https://t.me/georgedonnelly)
 
 
 ## Keep in Touch
@@ -127,9 +127,6 @@ Buy my novels at these retailers.
 The immediate goal for More Liberty Now (MLN) is to identify the most efficient vectors for empowering individuals worldwide to reclaim our liberty – all of it, not just “civil liberties” or government-approved rights – through better ideas, tools, lifestyles and processes. [Read more](http://morelibertynow.com/about/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UfDjnO12Mys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [http://morelibertynow.com/](http://morelibertynow.com/)
-
 
 ## Archived Projects
 
