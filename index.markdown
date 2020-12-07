@@ -145,6 +145,8 @@ The immediate goal for More Liberty Now (MLN) is to identify the most efficient 
 
 “Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.” ― Viktor E. Frankl
 
+"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat." - Teddy Roosevelt
+
 “Opportunity has a sly habit of slipping in by the back door, often disguised in the form of misfortune or temporary defeat which is why so many fail to recognize opportunity.” ― Napolean Hill
 
 "It is better to be on the certain though slow course of gradual unfoldment of freedom than to take the troubled and dangerous path of revolution whether peaceful or violent." - Mohandas K. Gandhi
